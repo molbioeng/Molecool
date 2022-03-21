@@ -11,7 +11,7 @@ Code is separated into modules:
   4. HRV Parameter Extraction - extracting HRV data from detected peaks, plotting frequency and time domain graphs, and extracting relevant HRV parameters
   5. Parameter analysis - Statistical analysis of HRV parameters and CAN variables
 
-Other files:
+Other files (last 2 are stored in the Unmodularised_code folder):
   - n.0.ipynb stores the functions used in module n
   - Filter testing - checking how filters + other methods affect the signal
   - Cross correlation matrices - observing correlations between variables within our data to compare with literature
